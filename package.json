@@ -4,7 +4,7 @@
   "version": "1.2.6",
   "author": "shengxinjing <shengxinjing@baidu.com>",
   "dependencies": {
-    "ng-annotate": "0.13.0",
+    "ng-annotate": "^1.2.2",
     "semi":"2.0.0"
   },
   "keywords": [
